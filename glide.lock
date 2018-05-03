@@ -1,0 +1,8 @@
+hash: 737d5021c9c49ae9bfc550b51de3e90cbebf0a4988e7d54bc4645ca5f440faf0
+updated: 2018-05-03T16:06:26.056567-04:00
+imports:
+- name: github.com/shopspring/decimal
+  version: 69b3a8ad1f5f2c8bd855cb6506d18593064a346b
+- name: github.com/Tonkpils/lendingclub
+  version: 7204cdd847d534d9de3d9ee6e0988a9307401319
+testImports: []

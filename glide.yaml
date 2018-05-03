@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/Tonkpils/lendingclub
+- package: github.com/shopspring/decimal
+  version: ^1.0.1
